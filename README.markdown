@@ -63,6 +63,7 @@ I also have an ML project (Seed Quality Analysis) that shows my Python and analy
 
 ## Contact Me
 - **Email**: ranjanayush918@gmail.com
-- **GitHub**: https://github.com/<your-username>
+
+[//]: # (- **GitHub**: https://github.com/<your-username>)
 
 Thanks for checking out my project! I’m excited about Cred’s mission and hope to bring my learning mindset to your team. Let me know if you have questions!
